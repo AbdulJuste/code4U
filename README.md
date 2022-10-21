@@ -1,23 +1,37 @@
 # Exemples de code pour le cours ICS4U
 > version 2022-10
 
-## Utilisation
-
-<details>
-    <summary><i>Cliquer pour voir les détails</i></summary>
-
-Les exemples sont préparés pour téléchargement par les élèves du cours ICS4U de M. Crowley. 
+Les exemples sont préparés pour téléchargement et consultation par les élèves du cours ICS4U de M. Crowley. 
 
 Ces exemples sont complémentaires aux leçons présentées en classe et sont souvent la base des exercices.
 
-* Cloner le répertoire sur votre ordinateur
-* Si l'enseignant ajoute des nouveaux fichiers, simplement faire un Pull (cliquer sur le bouton synchroniser dans VS Code)
-* Vous ne pouvez pas pousser vos changements dans ce dossier. Le partage se fait à sens unique.
+## Utilisation
+
+<details>
+    <summary><i>Afficher ce fichier (et tous les autres .md) en mode Preview par défaut</i></summary>
+
+Pour afficher les fichiers Markdown (.md) en mode Preview, simplement :
+* faire un clic-droit sur un fichier .md dans l'Explorateur de VS Code (p. ex. README.md)
+* choisir "Ouvrir avec..." > "Configurer l'éditeur par défaut pour "*.md""
+* cliquer sur "Markdown Preview"
+
+Tous les fichiers .md s'ouvriront maintenant en mode Preview directement.
+
+>Par la suite, si vous voulez modifier un ficher .md, vous pouvez simplement cliquer sur "Ouvrir avec..." > "Éditeur de texte"
 
 </details>
+<p></p>
+<details>
+    <summary><i>Cloner et synchroniser le dossier sur votre machine</i></summary>
 
 
+* Cloner le répertoire sur votre ordinateur
+* Si l'enseignant ajoute des nouveaux fichiers, simplement faire un Pull (cliquer sur le bouton synchroniser dans VS Code)
+* Copier tout exemple (fichier ou package) que vous voulez utiliser comme gabarit dans votre propre dossier de projet
+    * vous n'êtes pas autorisé à apporter des modifications à ce répertoire
+    * si vous en faites, vous aurez des messages d'erreur quand vous tenter de synchroniser ce dossier à nouveau
 
+</details>
 
 ## Structure
 
